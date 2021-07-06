@@ -155,7 +155,7 @@
                 </executions>
                 <configuration>
                     <rules>
-                        <banCircularDependencies />
+                        <banCircularDependencies/>
                     </rules>
                     <fail>true</fail>
                 </configuration>
@@ -549,7 +549,7 @@
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
-                <version>1.2.69</version>
+                <version>1.2.76</version>
             </dependency>
             <dependency>
                 <groupId>org.javassist</groupId>
